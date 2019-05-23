@@ -1,4 +1,5 @@
 # 4 - Gutenberg Editor (Wordpress), Ella van Durpe
+- Built with React/Redux (React Native for Mobile)
 - Everything is blocks
 - Block Markup: HTML; works everywhere, readable BUT: difficult to parse
 - Using Comments as delimiters for blocks
